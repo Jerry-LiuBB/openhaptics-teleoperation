@@ -1,1 +1,0 @@
-# openhaptics-teleoperation
